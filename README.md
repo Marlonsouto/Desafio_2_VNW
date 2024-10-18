@@ -1,4 +1,4 @@
-# 🌸 Desafio2 - Outubro Rosa ![Logo](https://github.com/vaiNaWeb)
+# ![Logo](https://github.com/Marlonsouto/Desafio_2_VNW/blob/main/img/download.jpg) 🌸 Desafio2 - Outubro Rosa 
 
 Um projeto web voltado para a conscientização sobre o **Outubro Rosa**, uma campanha global que incentiva a prevenção e o diagnóstico precoce do câncer de mama. Este site informativo foi desenvolvido com um layout moderno e intuitivo, trazendo dicas de saúde e detalhes sobre eventos relacionados à causa. 
 
